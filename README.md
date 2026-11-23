@@ -1,28 +1,41 @@
-Hi, I am Mridani!
 
-About Me
+# Foundations of Computing
 
-* B.Tech CSE Student at K.R. Mangalam University, Gurugram (Batch 2024-28)
-* Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
-* Interested in: AI-ML and Full-Stack Development
+## About This Project
+This project is created as part of my learning journey in computing. It covers the basic concepts of computing systems, computational thinking, and problem-solving techniques.
 
-Technical Skills
+## Topics Covered
 
-Category	Technologies
-Languages	Python (Beginner), Bash / Shell Scripting
-Tools	Git, GitHub, VS Code, Linux Terminal, Postman
-Concepts	File Systems, Process Management, REST APIs, Markdown
+### Unit 1: Foundations of Computing & Computational Thinking
 
-Featured Projects
+1. Introduction to Computing Systems
+2. How Computers Work
+3. Binary and Data Representation
+4. Program Execution Basics
+5. Role of Operating Systems
+6. Computational Thinking
+7. Algorithms, Pseudocode and Flowcharts
+8. Introduction to Computing Domains
 
-* CSE103 Lab – LAB 3
-* Git workflows, API interaction, and Markdown documentation
+## Learning Objectives
 
-Currently Working On
+- Understand the basic concepts of computers.
+- Learn how computers process information.
+- Understand binary number systems.
+- Learn the role of operating systems.
+- Develop logical and problem-solving skills.
+- Understand algorithms and flowcharts.
 
-* Semester 1 lab projects and building daily problem-solving habits
+## Technologies Used
 
-Connect With Me
+- Computer Fundamentals
+- Basic Programming Concepts
+- Markdown
 
-* LinkedIn: [Your LinkedIn Profile URL]
-* Email: mridani.angel@gmail.com
+## Purpose
+
+The purpose of this project is to build a strong foundation in computing and improve my technical knowledge step by step.
+
+## Author
+
+Created by: Student
